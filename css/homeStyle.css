@@ -318,7 +318,7 @@ line-height: 2rem;
   margin-left:0;
   background-color:#38C1D2;
 }
-.contactTile > p{
+.contactTile > p,a{
   font-size: 1.25em;
   font-size: 1.25rem;
 
